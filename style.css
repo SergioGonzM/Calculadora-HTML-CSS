@@ -46,23 +46,26 @@ div strong {
 }
 
 #action_button {
-    background-color: rgba(100,114,153,255);
+    background-color: rgb(100,114,153);
     color: white;
     font-size: 12px;
+    box-shadow: 0px 2px rgb(119, 135, 182);
 }
 
 #reset_button {
-    background-color: rgba(100,114,153,255);
+    background-color: rgb(100,114,153);
     color: white;
     grid-column: span 2;
     font-size: 12px;
+    box-shadow: 0px 2px rgb(119, 135, 182);
 }
 
 #result_button {
-    background-color: rgba(209,63,48,255);
+    background-color: rgb(209,63,48);
     color: white;
     grid-column: span 2;
     font-size: 15px;
+    box-shadow: 0px 2px rgb(167, 45, 32);
 }
 
 input:active {
@@ -94,6 +97,7 @@ input[type="button"]  {
     border: none;
     cursor: pointer;
     font-size: 22px;
+    box-shadow: 0px 2px #747474;
 }
 
 input[type="radio"]{
