@@ -1,3 +1,3 @@
 # Calculadora-HTML-CSS
 
-![image](https://user-images.githubusercontent.com/99292588/162478883-63f672dd-2d61-4594-9cd8-f9d9ff8973e9.png)
+![image](https://user-images.githubusercontent.com/99292588/162772368-ba5c8980-9990-43ee-89c8-630ec4bd5b2a.png)
